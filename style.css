@@ -1,0 +1,25 @@
+body {
+    background-image: url(favicon-32x32.png);
+    
+}
+.main{
+
+    height: 400px;
+    width: 20%;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+p{
+    color: grey;
+}
